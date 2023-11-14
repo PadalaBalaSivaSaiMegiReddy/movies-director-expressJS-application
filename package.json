@@ -1,0 +1,17 @@
+{
+  "name": "movies-database",
+  "version": "1.0.0",
+  "description": "Given two files `app.js` and a database file `moviesData.db` consisting of two tables `movie` and `director`.",
+  "main": "app.js",
+  "author": "Megi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
